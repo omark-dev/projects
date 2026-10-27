@@ -6,13 +6,13 @@ A showcase of things I've built. Source code is private; this repo only describe
 
 | | |
 |---|---|
-| ![Clipboardly website](images/clipboardly.png)<br>**Clipboardly**: Mac clipboard manager | ![Guardian Shrine hub world](images/guardian-shrine.jpg)<br>**Guardian Shrine**: Roblox pet game hub |
-| ![Odhyay lesson player](images/odhyay.png)<br>**অধ্যায় (Odhyay)**: narrated Bangla lesson player | ![Black Pearl agent board](images/black-pearl.png)<br>**Black Pearl**: AI agent workflow board |
+| ![Guardian Shrine hub world](images/guardian-shrine.jpg)<br>**Guardian Shrine**: Roblox pet game hub | ![Black Pearl agent board](images/black-pearl.png)<br>**Black Pearl**: AI agent workflow board |
+| ![Odhyay lesson player](images/odhyay.png)<br>**অধ্যায় (Odhyay)**: narrated Bangla lesson player | |
+
 ## Apps and tools
 
 | Project | What it does | Built with | State |
 |---|---|---|---|
-| **Clipboardly** | Free Mac clipboard manager: history, project boards and a paste hotkey | macOS app, static site, Remotion ads | Live |
 | **Lock-In** | Windows focus workspace that tiles real apps under a bar with a timer and music | Electron, Node | Built |
 | **Holo Control** | Control two monitors with hand, eyes and voice, fully offline | Python, MediaPipe, Whisper, sherpa-onnx | Built |
 | **Runo** | Private, local voice assistant over a personal notes vault | Python, Whisper, Piper, web UI | Built |
@@ -25,7 +25,7 @@ A showcase of things I've built. Source code is private; this repo only describe
 | | |
 |---|---|
 | ![VantageFit AI Form Tracker](images/gym.jpg)<br>**VantageFit AI Form Tracker**: the camera counts reps and grades form live in the browser (MoveNet / BlazePose, One Euro smoothing, Supabase) | ![Klevora Host](images/klevora.jpg)<br>**Klevora Host**: Minecraft server hosting landing page with an interactive 3D island |
-| ![Vantagee](images/vantagee.jpg)<br>**Vantagee**: AI automation and digital systems agency site | ![Clipboardly website](images/clipboardly.png)<br>**Clipboardly**: product site for the Mac app |
+| ![Vantagee](images/vantagee.jpg)<br>**Vantagee**: AI automation and digital systems agency site | |
 
 ### Client demo sites
 
