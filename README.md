@@ -64,9 +64,9 @@ Pitch demos built for real businesses. Names and screenshots are left out.
 | **Cha Wala** | Idle tap-to-earn tea-stall tycoon | HTML5 | Built |
 | **Cargo Wars** | Roblox team PvP cargo-convoy game | Roblox Luau | Prototype |
 
-## Bangla subscription apps
+## Subscription-based apps
 
-A family of Bangla web apps on one shared login / OTP / subscription platform, with a revenue and uptime dashboard across all of them.
+A family of subscription-based web apps on one shared login / OTP / subscription platform, with a revenue and uptime dashboard across all of them.
 
 | Project | What it does | Built with |
 |---|---|---|
